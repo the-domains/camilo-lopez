@@ -1,0 +1,28 @@
+name: Camilo Lopez
+favicon: null
+layout_spectrum: 0.9462609512265772
+typography_spectrum: 0.9877860655542463
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9259189397562295
+  lightness: 0.5856033808086067
+  saturation: 0.9599900532048196
+  rhythmicContrast: 0.8083129730075598
+purpose: []
