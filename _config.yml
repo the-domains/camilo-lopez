@@ -1,9 +1,7 @@
-favicon: null
 name: Camilo Lopez
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.5215054
+typography_spectrum: 0.234767
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.6129032
-  brandStrength: 1
-  lightness: 0.3924731
-  brandColors:
-    - '#270F2E'
-    - '#F2FAE1'
-    - '#4C405D'
-    - '#9AA3A3'
-    - '#FACF9A'
-  rhythmicContrast: 0.7114695
-typography_spectrum: 0.234767
-layout_spectrum: 0.5215054
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#41172b'
+    - '#cabcaf'
+    - '#b69991'
+    - '#98777e'
+    - '#7b4255'
+  brandStrength: 0.8125
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
