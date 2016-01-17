@@ -1,28 +1,40 @@
-name: Camilo Lopez
 favicon: null
-layout_spectrum: 0.9462609512265772
-typography_spectrum: 0.9877860655542463
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Camilo Lopez
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9259189397562295
-  lightness: 0.5856033808086067
-  saturation: 0.9599900532048196
-  rhythmicContrast: 0.8083129730075598
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6129032
+  brandStrength: 1
+  lightness: 0.3924731
+  brandColors:
+    - '#270F2E'
+    - '#F2FAE1'
+    - '#4C405D'
+    - '#9AA3A3'
+    - '#FACF9A'
+  rhythmicContrast: 0.7114695
+typography_spectrum: 0.234767
+layout_spectrum: 0.5215054
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
